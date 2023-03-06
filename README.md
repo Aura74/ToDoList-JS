@@ -1,2 +1,3 @@
 # ToDoList-JS
-![image](https://user-images.githubusercontent.com/50366078/223146223-9618ea11-77c7-44b8-90bf-0df021f51669.png)
+![image](https://user-images.githubusercontent.com/50366078/223146571-4980b4a5-e093-40d8-9a08-5f514f1a1877.png)
+
